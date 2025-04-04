@@ -1,11 +1,5 @@
 # Space Invaders (Pygame)
 
-A classic-style Space Invaders game developed using Python and Pygame. This project demonstrates foundational Object-Oriented Programming (OOP) concepts, clean modular design, and game development techniques. It is ideal for beginners exploring game design and Python programming.
-
----
-
-## Summary
-
 My first project ever!
 
 A 2D arcade shooter game like Galaga where the player controls a spaceship that fires bullets to destroy approaching enemy ships. The game includes dynamic difficulty scaling and score tracking.
